@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "Institute for Advanced Computational Science, Stony Brook"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Institute for Advanced Computational Science, Stony Brook University"        # brief name of host site without address (e.g., "Euphoric State University")
 address: " IACS Seminar Room, Laufer Center, Lake Dr, Stony Brook, NY 11794"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
